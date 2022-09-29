@@ -23,13 +23,7 @@ function App() {
 
 
   return (
-    <table>
-      <tbody>
-        <td>
-          <td>{dolar}</td>
-        </td>
-      </tbody>
-    </table>
+    <span>{dolar}</span>
   );
 }
 
